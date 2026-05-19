@@ -201,17 +201,17 @@ DigitalOcean Droplet
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>LyhengLT</b><br/>
+      <b>Lyheng Lay</b><br/>
       <i>Team Lead · DB · Deployment · Admin</i><br/>
       <sub>Oracle schema · DigitalOcean · Nginx · PM2 · SSL · Admin pages</sub>
     </td>
     <td align="center" width="33%">
-      <b>Person 2</b><br/>
+      <b>Hok Do</b><br/>
       <i>Frontend Developer</i><br/>
       <sub>Vue.js · Pinia · Vue Router · Chart.js · UI/UX</sub>
     </td>
     <td align="center" width="33%">
-      <b>Person 3</b><br/>
+      <b>Cheang Odom</b><br/>
       <i>Backend Developer</i><br/>
       <sub>Go Fiber · AI Agent · Handler/Service/Repository · Oracle</sub>
     </td>
