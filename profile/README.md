@@ -98,8 +98,8 @@ Whether you're feeling overwhelmed, anxious, or just want to reflect on your day
 
 | Repository | Description | Owner |
 |-----------|-------------|-------|
-| [🎨 mindease-frontend](https://github.com/mindease-team/mindease-frontend) | Vue.js 3 — user app and admin panel | Person 2 |
-| [⚙️ mindease-backend](https://github.com/mindease-team/mindease-backend) | Go Fiber v3 — API, AI agent, business logic | Person 3 |
+| [🎨 mindease-frontend](https://github.com/mindease-team/mindease-frontend) | Vue.js 3 — user app and admin panel | Hok Do |
+| [⚙️ mindease-backend](https://github.com/mindease-team/mindease-backend) | Go Fiber v3 — API, AI agent, business logic | Cheang Odom |
 | [🗄️ mindease-database](https://github.com/mindease-team/mindease-database) | Oracle DB schema, indexes, migrations | LyhengLT |
 
 ---
