@@ -224,6 +224,6 @@ DigitalOcean Droplet
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=100&section=footer" width="100%"/>
 
-<sub>🎓 Software Engineering Thesis Project · BELTEI International University · Built with Vue.js · Go Fiber · Oracle DB · Google Gemini AI</sub>
+<sub>🎓 Software Engineering Team Project · BELTEI International University · Built with Vue.js · Go Fiber · Oracle DB · Google Gemini AI</sub>
 
 </div>
