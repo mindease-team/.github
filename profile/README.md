@@ -22,7 +22,7 @@
 
 ## 🧠 What is MindEase?
 
-MindEase is a full-stack AI-powered mental wellness web application built as a **Software Engineering Thesis Project** at BELTEI International University. It helps the general public understand their emotions and improve their mental wellbeing through intelligent, personalized tools.
+MindEase is a full-stack AI-powered mental wellness web application built as a **Software Engineering Team Project** at BELTEI International University. It helps the general public understand their emotions and improve their mental wellbeing through intelligent, personalized tools.
 
 Whether you're feeling overwhelmed, anxious, or just want to reflect on your day — **MindEase is always there.**
 
