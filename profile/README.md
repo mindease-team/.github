@@ -96,11 +96,13 @@ Whether you're feeling overwhelmed, anxious, or just want to reflect on your day
 
 ## 📁 Repositories
 
-| Repository | Description | Owner | Last Commit | Activity |
-|-----------|-------------|-------|-------------|----------|
-| [🎨 mindease-frontend](https://github.com/Zenju17/mindease-frontend) | Vue.js 3 — user app and admin panel | Hok Do | ![last commit](https://img.shields.io/github/last-commit/Zenju17/mindease-frontend?style=flat-square&color=4FC08D&label=) | ![commits](https://img.shields.io/github/commit-activity/w/Zenju17/mindease-frontend?style=flat-square&color=4FC08D&label=this+week) |
-| [⚙️ mindease-backend](https://github.com/OdomCH/mindease-backend) | Go Fiber v3 — API, AI agent, business logic | Cheang Odom | ![last commit](https://img.shields.io/github/last-commit/OdomCH/mindease-backend?style=flat-square&color=00ADD8&label=) | ![commits](https://img.shields.io/github/commit-activity/w/OdomCH/mindease-backend?style=flat-square&color=00ADD8&label=this+week) |
-| [🗄️ mindease-database](https://github.com/LyhengLT/mindease-database) | Oracle DB schema, indexes, migrations | LyhengLT | ![last commit](https://img.shields.io/github/last-commit/LyhengLT/mindease-database?style=flat-square&color=F80000&label=) | ![commits](https://img.shields.io/github/commit-activity/w/LyhengLT/mindease-database?style=flat-square&color=F80000&label=this+week) |
+| Repository | Description | Owner | Status |
+|-----------|-------------|-------|--------|
+| 🎨 mindease-frontend | Vue.js 3 — user app and admin panel | Hok Do | ![status](https://img.shields.io/badge/In_Progress-4FC08D?style=flat-square) |
+| ⚙️ mindease-backend | Go Fiber v3 — API, AI agent, business logic | Cheang Odom | ![status](https://img.shields.io/badge/In_Progress-00ADD8?style=flat-square) |
+| 🗄️ mindease-database | Oracle DB schema, indexes, migrations | LyhengLT | ![status](https://img.shields.io/badge/In_Progress-F80000?style=flat-square) |
+
+> 🔒 All repositories are private during active development.
 
 ---
 
@@ -184,15 +186,15 @@ DigitalOcean Droplet
 
 ## 📌 Project Status
 
-| Milestone | Status | Last Push |
-|-----------|--------|-----------|
-| Project planning & architecture | ✅ Complete | — |
-| Database schema design | ✅ Complete | ![last commit](https://img.shields.io/github/last-commit/LyhengLT/mindease-database?style=flat-square&color=00FFB3&label=) |
-| Backend scaffolding | 🔄 In Progress | ![last commit](https://img.shields.io/github/last-commit/OdomCH/mindease-backend?style=flat-square&color=yellow&label=) |
-| Frontend scaffolding | 🔄 In Progress | ![last commit](https://img.shields.io/github/last-commit/Zenju17/mindease-frontend?style=flat-square&color=yellow&label=) |
-| AI agent integration | ⏳ Upcoming | — |
-| Admin panel | ⏳ Upcoming | — |
-| Deployment | ⏳ Upcoming | — |
+| Milestone | Status |
+|-----------|--------|
+| Project planning & architecture | ✅ Complete |
+| Database schema design | ✅ Complete |
+| Backend scaffolding | 🔄 In Progress |
+| Frontend scaffolding | 🔄 In Progress |
+| AI agent integration | ⏳ Upcoming |
+| Admin panel | ⏳ Upcoming |
+| Deployment | ⏳ Upcoming |
 
 ---
 
@@ -204,19 +206,19 @@ DigitalOcean Droplet
       <b>Lyheng Lay</b><br/>
       <i>Team Lead · DB · Deployment · Admin</i><br/>
       <sub>Oracle schema · DigitalOcean · Nginx · PM2 · SSL · Admin pages</sub><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/LyhengLT/mindease-database?style=flat-square&color=F80000&label=last+push" />
+      <img src="https://img.shields.io/badge/DB-actively_pushing-F80000?style=flat-square&logo=oracle&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <b>Hok Do</b><br/>
       <i>Frontend Developer</i><br/>
       <sub>Vue.js · Pinia · Vue Router · Chart.js · UI/UX</sub><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/Zenju17/mindease-frontend?style=flat-square&color=4FC08D&label=last+push" />
+      <img src="https://img.shields.io/badge/Frontend-actively_pushing-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <b>Cheang Odom</b><br/>
       <i>Backend Developer</i><br/>
       <sub>Go Fiber · AI Agent · Handler/Service/Repository · Oracle</sub><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/OdomCH/mindease-backend?style=flat-square&color=00ADD8&label=last+push" />
+      <img src="https://img.shields.io/badge/Backend-actively_pushing-00ADD8?style=flat-square&logo=go&logoColor=white" />
     </td>
   </tr>
 </table>
